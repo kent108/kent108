@@ -1,6 +1,7 @@
 ### Hi :) ###
 
-<a href="https://app.daily.dev/kent108"><img src="https://api.daily.dev/devcards/a65d101e836d4413975255cf730ad82c.png?r=6q7" width="400" alt="kent108's Dev Card"/></a>
+<a href="https://app.daily.dev/kent108"><img src="https://api.daily.dev/devcards/a65d101e836d4413975255cf730ad82c.png?r=kbq" width="400" alt="kent108's Dev Card"/></a>
+
 
 <!--
 **kent108/kent108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
